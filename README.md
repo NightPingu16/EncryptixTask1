@@ -1,2 +1,1 @@
-# EncryptixTask1
-Internship Task -1 
+Sample Template For Web Page
